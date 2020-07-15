@@ -1,1 +1,1 @@
-# Minimum-Soanning-Tree
+# Minimum-Spanning-Tree
